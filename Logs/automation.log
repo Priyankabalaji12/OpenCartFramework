@@ -1,0 +1,24 @@
+2025-08-20 17:53:18 INFO  TC001_RegisterPageTest:17 - *******TC001_RegisterPageTest Execution Started******
+2025-08-20 17:53:19 INFO  TC001_RegisterPageTest:23 - *******Register Page******
+2025-08-20 17:53:22 INFO  TC001_RegisterPageTest:38 - *******Getting Confirmation Message******
+2025-08-20 17:53:22 INFO  TC001_RegisterPageTest:54 - *******TC001_RegisterPageTest Execution Completed Successfully******
+2025-08-20 17:53:26 INFO  TC002_LoginTest:18 - ********TC002_LoginPageTest Execution Started*********
+2025-08-20 17:53:26 INFO  TC002_LoginTest:23 - ********Successfully Landed on Login Page*********
+2025-08-20 17:53:28 INFO  TC002_LoginTest:29 - ********Successfully landed on My Account Page*********
+2025-08-20 17:53:28 INFO  TC002_LoginTest:39 - ********TC002_LoginPageTest Executed Successfully*********
+2025-08-20 18:30:37 INFO  TC001_RegisterPageTest:17 - *******TC001_RegisterPageTest Execution Started******
+2025-08-20 18:30:38 INFO  TC001_RegisterPageTest:23 - *******Register Page******
+2025-08-20 18:30:43 INFO  TC001_RegisterPageTest:38 - *******Getting Confirmation Message******
+2025-08-20 18:30:43 INFO  TC001_RegisterPageTest:54 - *******TC001_RegisterPageTest Execution Completed Successfully******
+2025-08-20 18:30:46 INFO  TC002_LoginTest:18 - ********TC002_LoginPageTest Execution Started*********
+2025-08-20 18:30:47 INFO  TC002_LoginTest:23 - ********Successfully Landed on Login Page*********
+2025-08-20 18:30:51 INFO  TC002_LoginTest:29 - ********Successfully landed on My Account Page*********
+2025-08-20 18:30:51 INFO  TC002_LoginTest:39 - ********TC002_LoginPageTest Executed Successfully*********
+2025-08-20 19:03:28 INFO  TC001_RegisterPageTest:17 - *******TC001_RegisterPageTest Execution Started******
+2025-08-20 19:03:29 INFO  TC001_RegisterPageTest:23 - *******Register Page******
+2025-08-20 19:03:31 INFO  TC001_RegisterPageTest:38 - *******Getting Confirmation Message******
+2025-08-20 19:03:32 INFO  TC001_RegisterPageTest:54 - *******TC001_RegisterPageTest Execution Completed Successfully******
+2025-08-20 19:03:35 INFO  TC002_LoginTest:18 - ********TC002_LoginPageTest Execution Started*********
+2025-08-20 19:03:36 INFO  TC002_LoginTest:23 - ********Successfully Landed on Login Page*********
+2025-08-20 19:03:36 INFO  TC002_LoginTest:29 - ********Successfully landed on My Account Page*********
+2025-08-20 19:03:37 INFO  TC002_LoginTest:39 - ********TC002_LoginPageTest Executed Successfully*********
